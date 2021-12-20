@@ -1,0 +1,7 @@
+new对象：ALT+ENTER
+查看构造器：CTRL+R
+自动对齐调格式：CTRL+ALT+L
+代码上移：CTRL+SHIFT+↑
+包围：CTRL+SHIFT+T
+生成构造器：ALT+INSERT
+查看方法的参数：CTRL+P

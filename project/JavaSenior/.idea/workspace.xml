@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="958b6233-e670-4213-ac1c-a1f1794cf289" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="208" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21X29XZqUpwbhBcC9HeMBkCllTR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day02/src/com/atguigu/java1" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\学习日志\linux与大数据\java\project\JavaSenior\day02\src\com\atguigu\java1" />
+      <recent name="D:\study\学习日志\linux与大数据\java\project\JavaSenior\day02\src\com\atguigu\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StringTest.test1">
+    <configuration name="CommunicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.CommunicationTest" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.ProductTest" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.ThreadNew" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.ThreadPool" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.StringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTest.test1" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.ThreadNew" />
+        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="Application.CommunicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="958b6233-e670-4213-ac1c-a1f1794cf289" name="默认更改列表" comment="" />
+      <created>1638072960620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638072960620</updated>
+      <workItem from="1638072967448" duration="4620000" />
+      <workItem from="1638146786368" duration="18292000" />
+      <workItem from="1638234304415" duration="5370000" />
+      <workItem from="1638264724567" duration="221000" />
+      <workItem from="1638322280548" duration="21793000" />
+      <workItem from="1638406644797" duration="8020000" />
+      <workItem from="1639573660291" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1638351871686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1638351871686" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1638361775640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1638361775640" />
+    <state x="369" y="71" key="#项目结构" timestamp="1638322402943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="71" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1638322402943" />
+    <state x="557" y="167" key="FileChooserDialogImpl" timestamp="1638180926058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638180926058" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1638438848657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638438848657" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1638438848657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638438848657" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1638438848657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638438848657" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1638438848657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638438848657" />
+    <state width="1478" height="249" key="GridCell.Tab.1.bottom" timestamp="1638191911101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638191911101" />
+    <state width="1478" height="249" key="GridCell.Tab.1.center" timestamp="1638191911101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1638191911101" />
+    <state width="1478" height="249" key="GridCell.Tab.1.left" timestamp="1638191911101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1638191911101" />
+    <state width="1478" height="249" key="GridCell.Tab.1.right" timestamp="1638191911101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1638191911101" />
+    <state x="53" y="54" key="SettingsEditor" timestamp="1638328144566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="53" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638328144566" />
+    <state x="498" y="157" width="540" height="524" key="StructurePopup" timestamp="1638182120536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1638182120536" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1638414348492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1638414348492" />
+    <state x="548" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1638327968769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1638327968769" />
+    <state x="186" y="22" key="new project wizard" timestamp="1638406708999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1638406708999" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1638426159058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1638426159058" />
+    <state x="439" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1638424645310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1638424645310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day01/src/com/atguigu/java/ThreadMethod.java</url>
+          <line>50</line>
+          <properties class="com.atguigu.java.ThreadMethod" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day02/src/com/atguigu/java/windowTest1.java</url>
+          <line>69</line>
+          <properties class="com.atguigu.java.windowTest1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaSenior$ThreadTest.ic" NAME="ThreadTest Coverage Results" MODIFIED="1638329270182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.java1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
